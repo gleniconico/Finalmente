@@ -1,14 +1,23 @@
 333333333
 
 A.  Explain how digital signature works with public/private keypairs.
-
+*
+The public key is an encrypt code that release to the public, and the private key is to decrypt the encrypt code that you have
+made and do not want to release it to public.
+*
 B.  Identify your favorite Java project this semester.  
     Describe two things you learned by doing the project.
     Describe two ways in which the project could be improved or expanded.
-    
+*
+Queue & stack is my favorite. I can really see how things work, and what each line of the code means, and what it does. Make 
+the projects more interesting might help.
+*
 C.  Describe two advantages of object-oriented programming.
     Describe two disadvantages of object-oriented programming.
-    
+*
+Adv: Great framework, and easy to maintain.
+Disadv: Slower compared to other programs but not realy noticable, and size.
+*
 D.  Consider the following PYTHON code for the MNode class given below.
     What is the difference in the way Python and Java handle the declaration of datatypes?
     Explain the difference in how constructors are written in Python vs Java.
@@ -49,3 +58,11 @@ class MNode:
         
         return read
 -----------------------------------------------------------------------------
+*
+The difference is in the way Python and Java handle the declaration of datatypes that Python doesn't need to.
+     
+The difference in how constructors are written in Python vs Java is that Python's constructors use __init__ other than 
+copying the name of the class into it.
+     
+I prefer Python, because it's less complicated.
+*
